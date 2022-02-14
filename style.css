@@ -79,11 +79,11 @@ nav .menu{
           
           .btn-primary {
             color: #fff;
-            background: #16a083;
+            background: #b40c0c;
           }
           
           .btn-primary:hover {
-            background: #117964;
+            background: #b11313;
             transition: background 0.3s ease-in-out;
           }
 
